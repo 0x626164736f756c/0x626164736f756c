@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ <script src="https://tryhackme.com/badge/330243"></script>
+ 
 <!--
 **0x626164736f756c/0x626164736f756c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
